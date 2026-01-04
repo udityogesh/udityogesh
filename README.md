@@ -64,7 +64,7 @@
 ---
 
 ## 🌐 Connect With Me
-- 💼 GitHub: https://github.com/YOUR_GITHUB_USERNAME  
+- 💼 GitHub: https://github.com/udityogesh
 - 🧠 LeetCode: https://leetcode.com/u/yogeshwars/  
 - 📫 Email: yogeshwars854@gmail.com  
 
