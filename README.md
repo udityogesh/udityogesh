@@ -60,13 +60,13 @@
 - 📱 **Android Projects** – Practice & real-world apps
 - 🧠 **DSA Solutions (C++)** – Optimized and clean code
 - 🤖 **AI Experiments** – AI-powered mini projects
-
+- 📱 **Automation Projects** - IIOT(microcontrolers, sensors & protocols)
 ---
 
 ## 🌐 Connect With Me
 - 💼 GitHub: https://github.com/YOUR_GITHUB_USERNAME  
 - 🧠 LeetCode: https://leetcode.com/u/yogeshwars/  
-- 📫 Email: your.email@example.com  
+- 📫 Email: yogeshwars854@gmail.com  
 
 ---
 
